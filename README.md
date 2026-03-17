@@ -3,7 +3,7 @@
 - I'm **Anmol**, an AI Engineer specializing in production LLM systems, multi-agent architectures, decentralized AI infrastructure, and cloud backend engineering on GCP and AWS.
 - I spent 18 months as a Founding AI Engineer at **Omega Labs** — building Bittensor subnets, autonomous agent pipelines, and AI productivity tooling at scale.
 - Check out my featured projects: [Jobby Bot](https://github.com/desaianm/jobby_bot), [DSPy Internship Finder ⭐59](https://github.com/desaianm/internship_finder), [VoiceBench](https://github.com/desaianm/VoiceBench), and [CatGPT Bot](https://github.com/desaianm/catgpt_bot).
-- Read about [what I built at Omega Labs →](https://github.com/desaianm/desianm/omega_labs_reflections.md)
+- Read about [what I built at Omega Labs →](https://github.com/desaianm/desaianm/blob/main/omega_labs_reflections.md)
 - Follow me on [LinkedIn](https://linkedin.com/in/anmoldesai001) to stay updated.
 - 📬 Reach me at **adcan288@gmail.com** · Open to full-time AI Engineering roles (Toronto or remote)
 
