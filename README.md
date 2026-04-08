@@ -5,7 +5,7 @@
 - Check out my featured projects: [Jobby Bot](https://github.com/desaianm/jobby_bot), [DSPy Internship Finder ⭐59](https://github.com/desaianm/internship_finder), [VoiceBench](https://github.com/desaianm/VoiceBench), and [CatGPT Bot](https://github.com/desaianm/catgpt_bot).
 - Read about [what I built at Omega Labs →](https://github.com/desaianm/desaianm/blob/main/omega_labs_reflections.md)
 - Follow me on [LinkedIn](https://linkedin.com/in/anmoldesai001) to stay updated.
-- 📬 Reach me at **adcan288@gmail.com** · Open to full-time AI Engineering roles (Toronto or remote)
+- 📬 Reach me at **adcan288@gmail.com** · Open to Interesting Opportunities (Toronto or remote)
 
 ---
 
