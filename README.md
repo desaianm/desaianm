@@ -1,52 +1,44 @@
-# Hi there 👋, Welcome to my Github page!
+# Anmol Desai
 
-- I'm **Anmol**, an AI Engineer specializing in production LLM systems, multi-agent architectures, decentralized AI infrastructure, and cloud backend engineering on GCP and AWS.
-- I spent 18 months as a Founding AI Engineer at **Omega Labs** — building Bittensor subnets, autonomous agent pipelines, and AI productivity tooling at scale.
-- Check out my featured projects: [Jobby Bot](https://github.com/desaianm/jobby_bot), [DSPy Internship Finder ⭐59](https://github.com/desaianm/internship_finder), [VoiceBench](https://github.com/desaianm/VoiceBench), and [CatGPT Bot](https://github.com/desaianm/catgpt_bot).
-- Read about [what I built at Omega Labs →](https://github.com/desaianm/desaianm/blob/main/omega_labs_reflections.md)
-- Follow me on [LinkedIn](https://linkedin.com/in/anmoldesai001) to stay updated.
-- 📬 Reach me at **adcan288@gmail.com** · Open to Interesting Opportunities (Toronto, Canada or remote)
+AI engineer in Toronto, Canada. I build LLM applications, agent workflows, and the backend systems that make them useful outside a demo.
 
----
+[Studio & writing](https://afterhoursfoundry.com) · [Reading shelf](https://afterhoursfoundry.com/reading) · [LinkedIn](https://www.linkedin.com/in/anmoldesai001/) · [Email](mailto:adcan288@gmail.com)
 
-## 🔑 Key Highlights
+## What I'm working on
 
-🔗 **Decentralized AI** — Built two Bittensor production subnets (SN21 + SN24), managing pipelines across 1M+ hours of multimodal footage and the world's largest AGI dataset
+- **Agents that do useful work:** job-search tools, browser workflows, and clear handoffs between models, software, and people.
+- **Reliability beyond the model:** source-grounded outputs, evaluations, explicit approval steps, and evidence that a task actually finished.
+- **Personal software:** local-first tools and small products for problems I run into myself.
 
-🤖 **Multi-Agent Systems** — Shipped production agentic pipelines using Claude Agent SDK, LangGraph, CrewAI, and Autogen — including RL feedback loops, multi-model routing, and human-in-the-loop approval flows
+I bring my independent products and selected writing together at **[After Hours Foundry](https://afterhoursfoundry.com)**.
 
-📦 **Jobby Bot** — Lead Orchestrator (Claude Sonnet 4.5) coordinating 5 subagents end-to-end: job search → tailored resume → cover letter → email → Notion tracking. 20 applications in ~5 minutes at ~$1
+## Selected projects
 
-⭐ **DSPy Matchmaking App** — 59 GitHub stars; full-stack internship finder using DSPy + Weaviate hybrid semantic search + CrewAI
+| Project | What it does | Explore |
+| --- | --- | --- |
+| **Jobby Hermes** | A Python CLI for a Hermes-operated job search: source-backed candidate facts, tailored documents, review gates, and application evidence. | [Public source](https://github.com/desaianm/jobby-hermes) |
+| **Meety** | Offline meeting notes and English transcription for macOS, built in Rust, with a local CLI and read-only MCP access. | [Public source](https://github.com/desaianm/meety) |
+| **MyNextWatch** | A movie recommendation app for choosing what to watch next. | [Try it](https://movie.afterhoursfoundry.com) · [Overview](https://afterhoursfoundry.com/projects/mynextwatch) |
+| **Internship Finder** | Resume-to-internship matching with DSPy, Weaviate hybrid search, and Streamlit. | [Public source](https://github.com/desaianm/internship_finder) |
 
-🎙️ **VoiceBench** — Benchmark evaluating 30+ LLM-based voice assistants across reasoning, QA, instruction-following, and safety
+Jobby Hermes is the open-source CLI project. The separate [Jobby product site](https://jobby.afterhoursfoundry.com) offers an early-access waitlist; it is not a hosted version of that CLI.
 
-☁️ **GCP & Backend Infrastructure** — Managed production GCP infrastructure at Omega Labs: GKE clusters (prod + dev), GCE VMs for GPU and Bittensor workloads, Artifact Registry, Cloud Build CI/CD pipelines, and Cloudflare for DNS and CORS. Built async FastAPI backends with PostgreSQL, Celery task queues, and ACID-compliant video scoring pipelines handling real-time network load across SN21 and SN24
+## Background
 
----
+Previously, I was a **Founding AI Engineer at Omega Labs**, working on Bittensor subnets, multimodal data pipelines, agent systems, and cloud infrastructure.
 
-## 🛠️ Core Stack
+My work spans Python and FastAPI backends, PostgreSQL and task queues, retrieval systems, and deployment on GCP with Docker and Kubernetes. For agent and retrieval work, I've used LangGraph, CrewAI, DSPy, and Weaviate; for interfaces, React, Next.js, and TypeScript.
 
-**Agents** · Claude Agent SDK · LangGraph · CrewAI · LangChain · Autogen · DSPy · LlamaIndex  
-**LLM Engineering** · Prompt Optimization · Hybrid RAG · Graph RAG · RLHF · LoRA Fine-tuning  
-**Vector DBs** · Weaviate · Pinecone · MongoDB  
-**Backend** · Python · FastAPI · PostgreSQL · Celery · Redis · WebSockets · JWT Auth  
-**Cloud & MLOps** · GCP (GKE · GCE · Artifact Registry · Cloud Build) · AWS (S3 · EC2) · Docker · Kubernetes · GitHub Actions · Cloudflare  
-**Frontend** · React · Next.js · TypeScript · Electron
+[Read my Omega Labs retrospective](https://github.com/desaianm/desaianm/blob/main/omega_labs_reflections.md) for the projects, technical decisions, and lessons behind that work.
 
----
+## Away from the code
 
-## 📌 Featured Projects
+I read science fiction, philosophy, and essays about technology, work, and how people think. Books on my [public reading shelf](https://afterhoursfoundry.com/reading) include *Project Hail Mary*, *The Stranger*, and *Man's Search for Meaning*. Writers I return to include Paul Graham, Dwarkesh Patel, and Howard Marks.
 
-| Project | Description | Stack |
-|---|---|---|
-| [jobby_bot](https://github.com/desaianm/jobby_bot) | Multi-agent end-to-end job application automation | Claude SDK · Python · Discord |
-| [internship_finder ⭐59](https://github.com/desaianm/internship_finder) | Resume-to-job matching via hybrid semantic search | DSPy · Weaviate · Streamlit |
-| catgpt_bot | Autonomous Twitter AI agent with RL + multi-model routing | Agno AI · MySQL · Claude · Gemini · GPT-4o · Grok · Twitter API |
-| [VoiceBench](https://github.com/desaianm/VoiceBench) | Benchmark for 30+ LLM voice assistants | Python · HuggingFace |
-| [stock_analysis_bot](https://github.com/desaianm/stock_analysis_bot) | Multi-agent Discord trading assistant | Agno AI · MySQL · Claude · Gemini · GPT-4o · Grok · Yahoo Finance · Datasets API · Discord.py |
-| [MIRIX](https://github.com/desaianm/MIRIX) | Personal AI assistant with local screen memory + multimodal input | PostgreSQL · Agno |
+If you have a good book, a thoughtful essay, or a useful problem to build around, I'd like to hear about it.
 
----
+## Let's connect
 
-![Profile views](https://komarev.com/ghpvc/?username=desaianm&color=brightgreen)
+I'm open to **AI engineering opportunities in Toronto or remote**, collaborations on useful agent tools, and conversations with people building thoughtful software.
+
+For work or introductions, [email me](mailto:adcan288@gmail.com) or [connect on LinkedIn](https://www.linkedin.com/in/anmoldesai001/). A short note about the problem or idea is a good place to start.
