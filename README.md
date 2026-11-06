@@ -18,8 +18,8 @@ I bring my independent products and selected writing together at **[After Hours 
 | --- | --- | --- |
 | **Jobby Hermes** | A Python CLI for a Hermes-operated job search: source-backed candidate facts, tailored documents, review gates, and application evidence. | [Public source](https://github.com/desaianm/jobby-hermes) |
 | **Meety** | Offline meeting notes and English transcription for macOS, built in Rust, with a local CLI and read-only MCP access. | [Public source](https://github.com/desaianm/meety) |
-| **MyNextWatch** | A movie recommendation app for choosing what to watch next. | [Try it](https://movie.afterhoursfoundry.com) · [Overview](https://afterhoursfoundry.com/projects/mynextwatch) |
-| **Internship Finder** | Resume-to-internship matching with DSPy, Weaviate hybrid search, and Streamlit. | [Public source](https://github.com/desaianm/internship_finder) |
+| **Jarvis** | A voice-controlled macOS agent combining real-time audio, screen vision, desktop actions, and persistent task memory. | [Public source](https://github.com/desaianm/jarvis_computer) |
+| **Stock Analysis Bot** | Multi-agent equity research with numeric screening, reverse-DCF valuation, company reports, and a watchlist dashboard. | [Public source](https://github.com/desaianm/stock_analysis_bot) |
 
 Jobby Hermes is the open-source CLI project. The separate [Jobby product site](https://jobby.afterhoursfoundry.com) offers an early-access waitlist; it is not a hosted version of that CLI.
 
